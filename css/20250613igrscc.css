@@ -1212,6 +1212,12 @@ p.big3text {
    font-size: 22px;
 }
 
+p.big4text {
+   color:#fff; 
+   font-family:Zen Old Mincho;
+   font-size: 10px;
+}
+
 
 
 /*アニメーション
